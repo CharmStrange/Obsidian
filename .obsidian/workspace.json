@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca92a5cc0c2cd1d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "7d2b17959c45e508",
             "type": "leaf",
             "state": {
@@ -36,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
