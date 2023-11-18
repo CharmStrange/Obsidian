@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "33e002b153b37fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3878780dc0d4adfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca92a5cc0c2cd1d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5eea51fa3a751c84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "061c42ef5c7212f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b4ca9097e4dbfb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c05c8ac1c741d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c287e9060fbe27a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "172829b12603c611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0424218277697312",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "415d77a3bdaf34a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f07cacd5acfee67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb655ad97e61da7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41387689b2e1cd1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fde48eb2d5c24c5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1490e738d9fb44e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5eea51fa3a751c84",
+  "lastOpenFiles": [
+    "Network.md",
+    "README.md",
+    "host20231014-no3.md",
+    "host20231014-no4.md",
+    "host20231014-no2.md",
+    "host20231014-no1.md",
+    "host20231014.md",
+    "h2.md",
+    "h3.md",
+    "server.md",
+    "h1.md",
+    "일본 여행 준비.md",
+    "numbers.md",
+    "Clash of data.md",
+    "Obsidian"
+  ]
+}
