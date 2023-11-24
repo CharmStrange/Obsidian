@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d2b17959c45e508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/ip-network_layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69ae703434bea59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/ip-network_layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "776f607a0419b9f3",
             "type": "leaf",
             "state": {
@@ -51,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/HTTP_protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/HTTP_protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/HTTP_protocol.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,11 +151,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52de794766abee79",
+  "active": "776f607a0419b9f3",
   "lastOpenFiles": [
-    "Network/ip-transport_layer.md",
     "Network/ip-network_layer.md",
     "Web/HTTP_protocol.md",
+    "Network/ip-transport_layer.md",
     "Web",
     "Network.md",
     "Database",
