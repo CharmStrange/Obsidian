@@ -18,8 +18,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a452cea41a173304",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "62a312ba748c4579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0633c9d3059b885c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "06b908e0e2f23c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/ip-network_layer.md",
+                "file": "IPv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/ip-network_layer.md",
+                "file": "IPv4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/ip-network_layer.md"
+                "file": "IPv4.md"
               }
             }
           }
@@ -147,11 +188,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52de794766abee79",
+  "active": "06b908e0e2f23c9f",
   "lastOpenFiles": [
+    "IPv6.md",
+    "IPv4.md",
+    "Network/ip-network_layer.md",
     "Web/HTTP_protocol.md",
     "Web/HTTP.md",
-    "Network/ip-network_layer.md",
     "Network/ip-transport_layer.md",
     "Web",
     "Network.md",
