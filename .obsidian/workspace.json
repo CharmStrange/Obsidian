@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/ip-transport_layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/ip-transport_layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network/ip-transport_layer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,14 +152,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52de794766abee79",
+  "active": "0633c9d3059b885c",
   "lastOpenFiles": [
+    "Network/ip-transport_layer.md",
     "Network/ip-network_layer.md",
     "Network/IPv6.md",
     "Network/IPv4.md",
     "Web/HTTP_protocol.md",
     "Web/HTTP.md",
-    "Network/ip-transport_layer.md",
     "Web",
     "Network.md",
     "Database",
