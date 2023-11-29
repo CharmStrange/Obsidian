@@ -26,8 +26,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f85af1a555f54677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "Web/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/HTTP.md",
+                "file": "Web/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/HTTP.md"
+                "file": "Web/DNS.md"
               }
             }
           }
@@ -156,8 +169,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1490e738d9fb44e",
+  "active": "f85af1a555f54677",
   "lastOpenFiles": [
+    "Web/DNS.md",
     "Web/HTTP.md",
     "Network/ip-transport_layer.md",
     "Network/ip-network_layer.md",
