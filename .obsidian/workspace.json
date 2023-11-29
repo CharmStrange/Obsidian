@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52de794766abee79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/ip-transport_layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0633c9d3059b885c",
             "type": "leaf",
             "state": {
@@ -29,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "9cca620cca34a2f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +131,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/HTTP.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +151,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0633c9d3059b885c",
+  "active": "9cca620cca34a2f7",
   "lastOpenFiles": [
+    "Web/HTTP.md",
     "Network/ip-transport_layer.md",
     "Network/ip-network_layer.md",
     "Network/IPv6.md",
     "Network/IPv4.md",
     "Web/HTTP_protocol.md",
-    "Web/HTTP.md",
     "Web",
     "Network.md",
     "Database",
