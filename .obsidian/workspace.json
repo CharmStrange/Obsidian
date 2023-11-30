@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0633c9d3059b885c",
+            "id": "9cca620cca34a2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9cca620cca34a2f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f85af1a555f54677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/DNS.md",
+                "file": "Web/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/DNS.md",
+                "file": "Web/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/DNS.md"
+                "file": "Web/HTTP.md"
               }
             }
           }
@@ -169,10 +148,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f85af1a555f54677",
+  "active": "9cca620cca34a2f7",
   "lastOpenFiles": [
-    "Web/DNS.md",
     "Web/HTTP.md",
+    "Web/DNS.md",
     "Network/ip-transport_layer.md",
     "Network/ip-network_layer.md",
     "Network/IPv6.md",
