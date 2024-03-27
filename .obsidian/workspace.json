@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기본 필터 정리.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기본 필터 정리.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기본 필터 정리.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기본 필터 정리.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,7 +173,9 @@
   },
   "active": "495b6fb58d62e1c1",
   "lastOpenFiles": [
-    "기본 필터 정리.md",
+    "데이터 처리/기본 필터 정리.md",
+    "기계 학습",
+    "데이터 처리",
     "Web/HTTP.md",
     "Web/DNS.md",
     "Network/ip-transport_layer.md",
