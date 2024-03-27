@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26ccab50735b9bd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce020b4cd99628da",
+  "active": "26ccab50735b9bd6",
   "lastOpenFiles": [
     "Web/HTTP.md",
     "Web/DNS.md",
