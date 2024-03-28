@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "495b6fb58d62e1c1",
+  "active": "26ccab50735b9bd6",
   "lastOpenFiles": [
+    "README.md",
     "데이터 처리/기본 필터 정리.md",
     "기계 학습",
     "데이터 처리",
@@ -187,7 +184,6 @@
     "Network.md",
     "Database",
     "Network",
-    "README.md",
     "host20231014-no3.md",
     "host20231014-no4.md",
     "host20231014-no2.md",
