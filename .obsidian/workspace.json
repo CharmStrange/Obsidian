@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "033b08817626c4f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "495b6fb58d62e1c1",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -167,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26ccab50735b9bd6",
+  "active": "c287e9060fbe27a0",
   "lastOpenFiles": [
+    "기계 학습/Skills",
+    "기계 학습/Theory",
     "README.md",
     "데이터 처리/기본 필터 정리.md",
     "기계 학습",
